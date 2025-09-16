@@ -1,0 +1,3 @@
+databricks-sql-connector
+flask-cors
+psycopg2-binary
